@@ -43,7 +43,7 @@ function Quiz() {
       <div className="bg-fuchsia-300 min-h-screen flex items-center justify-center p-4">
         <div className="bg-white max-w-md w-full shadow-md rounded-lg p-4">
           <h1 className="text-lg sm:text-xl md:text-2xl text-gray-800 text-center bg-zinc-300 p-2 rounded mb-2">
-            General Questions
+            Java Questions
           </h1>
           {results ? (
             <div className="bg-slate-500 flex flex-col justify-center items-center p-4 text-white rounded">
